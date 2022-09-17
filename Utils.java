@@ -1,7 +1,6 @@
 /* Copyright (C) 2015, 2022 Paul N. Hilfinger and the Regents of the
  * University of California.  All rights reserved. */
 package gitlet;
-
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
