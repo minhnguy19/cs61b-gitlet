@@ -89,9 +89,3 @@ This class create the Blob object, which has the name, content, and hash ID asso
 ## 3. Persistence
 
 We save the state of the commits tree after each commit by serializing the commits using their hashId and saving them to files named after their hashId on disk. This can be done with writeObject method from the Utils class.
-
-## 4. Design Diagram
-
-Attach a picture of your design diagram illustrating the structure of your
-classes and data structures. The design diagram should make it easy to 
-visualize the structure and workflow of your program.

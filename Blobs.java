@@ -1,5 +1,4 @@
 package gitlet;
-
 import java.io.Serializable;
 import java.io.File;
 /** Blobs class for Gitlet, a class that creates the

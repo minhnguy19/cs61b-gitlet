@@ -1,5 +1,4 @@
 package gitlet;
-
 import java.io.Serializable;
 import java.io.File;
 import java.util.ArrayList;
