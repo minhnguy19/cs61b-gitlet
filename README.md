@@ -9,3 +9,4 @@ A project for Data Structures and Algorithms (CS61B), UC Berkeley's second intro
 - Wrote design documents and extensive amount of unit, integration, and acceptance tests.
 
 Read the full specs here: https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/index.html
+Read the design document here: https://github.com/minhnguy19/cs61b-gitlet/blob/main/Gitlet%20Design%20Document.md
